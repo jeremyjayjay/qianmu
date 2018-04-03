@@ -1,5 +1,5 @@
 ## 项目简介
-          基于python3,使用简单的request模块 + 函数封装 + 多线程 + redis分布式等方法实现爬取迁木网国内外名牌大学信息的功能
+    基于python3,使用简单的request模块 + 函数封装 + 多线程 + redis分布式等方法实现爬取迁木网国内外名牌大学信息的功能
 ## 运行要求:
     环境及模块:python + lxml.etree + redis
   
